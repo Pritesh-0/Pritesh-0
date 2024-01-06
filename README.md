@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pritesh-0
-- 👀 I’m interested in Open Source projects, App development, Competitive Coding.
-- 🌱 I’m currently learning Flutter, DSA in python.
+- 👀 I’m interested in Competitive Coding, Embedded programming, R&D, any crazy hardware/software projects.
+- 🌱 I’m currently writing scrips which make my life easier.
 - 💞️ I’m looking to teamup on Hackathons, Projects.
 - 📫 How to reach me : Drop a mail at priteshagrawal0@gmail.com
 
